@@ -180,16 +180,17 @@ h4 span:first-child {
     display: inline-block;
     background: #2ecc71;
     color: white;
-    font-size: 0.9em;
+    font-size: 14px;
     padding: 5px;
     border: 1px solid #2ecc71;
     margin-right: 5px;
+    margin-bottom: 10px;
 }
 
 .label {
-    display: inline;
+    display: inline-block;
     padding: .2em .6em .3em;
-    font-size: 75%;
+    font-size: 14px;
     font-weight: 700;
     line-height: 1;
     color: #fff;
