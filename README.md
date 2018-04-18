@@ -1,2 +1,2 @@
 # jess2.github.io
-My Personal Website
+> 이력서 상시 최신화
